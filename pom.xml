@@ -15,6 +15,7 @@
 	<description>A springboot-kafka project</description>
 	<modules>
 		<module>KafkaProducerWikiMedia</module>
+		<module>Kafka-Consumer-Wikimedia</module>
 	</modules>
 	<packaging>pom</packaging>
 	<url/>
